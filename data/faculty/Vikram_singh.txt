@@ -1,0 +1,19 @@
+Name: Dr. Vikram Singh
+
+Department: AIML
+
+Research Areas:
+Robotics
+Reinforcement Learning
+Autonomous Systems
+
+Publications:
+14 papers
+
+Projects:
+Warehouse Robots
+Autonomous Navigation
+
+Available For:
+Research
+PG Projects

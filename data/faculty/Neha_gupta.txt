@@ -1,0 +1,19 @@
+Name: Dr. Neha Gupta
+
+Department: CSE
+
+Research Areas:
+Blockchain
+Cryptography
+FinTech
+
+Publications:
+17 papers
+
+Projects:
+Blockchain Voting System
+Supply Chain Tracking
+
+Available For:
+UG Projects
+Faculty Collaboration

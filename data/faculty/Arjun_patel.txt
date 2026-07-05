@@ -1,0 +1,19 @@
+Name: Dr. Arjun Patel
+
+Department: AIML
+
+Research Areas:
+Data Science
+Big Data Analytics
+Predictive Analytics
+
+Publications:
+25 papers
+
+Projects:
+Student Performance Prediction
+Healthcare Analytics
+
+Available For:
+Research
+UG Projects

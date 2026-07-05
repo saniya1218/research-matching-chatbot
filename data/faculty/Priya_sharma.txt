@@ -1,0 +1,19 @@
+Name: Dr. Priya Sharma
+
+Department: Artificial Intelligence and Machine Learning
+
+Research Areas:
+Computer Vision
+Deep Learning
+Medical Imaging
+
+Publications:
+20 papers in Computer Vision
+
+Projects:
+Disease Detection using AI
+Medical Image Segmentation
+
+Available For:
+UG Projects
+Research Collaboration

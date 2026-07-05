@@ -1,0 +1,19 @@
+Name: Dr. Rohit Nair
+
+Department: Information Science
+
+Research Areas:
+Software Engineering
+DevOps
+Microservices
+
+Publications:
+11 papers
+
+Projects:
+CI/CD Automation
+Enterprise Software
+
+Available For:
+UG Projects
+Industry Projects

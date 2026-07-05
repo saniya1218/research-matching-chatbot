@@ -1,0 +1,19 @@
+Name: Dr. Kavya Joshi
+
+Department: AIML
+
+Research Areas:
+Data Mining
+Recommendation Systems
+Knowledge Graphs
+
+Publications:
+19 papers
+
+Projects:
+Movie Recommendation Engine
+Academic Recommendation System
+
+Available For:
+Research
+UG Projects

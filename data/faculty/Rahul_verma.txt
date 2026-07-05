@@ -1,0 +1,19 @@
+Name: Dr. Rahul Verma
+
+Department: Computer Science
+
+Research Areas:
+Cybersecurity
+Network Security
+Digital Forensics
+
+Publications:
+18 papers
+
+Projects:
+Malware Detection
+Secure Authentication
+
+Available For:
+UG Projects
+PG Projects

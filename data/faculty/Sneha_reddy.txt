@@ -1,0 +1,19 @@
+Name: Dr. Sneha Reddy
+
+Department: Information Science
+
+Research Areas:
+Cloud Computing
+Distributed Systems
+AWS
+
+Publications:
+12 papers
+
+Projects:
+Cloud Resource Optimization
+Serverless Computing
+
+Available For:
+UG Projects
+Industry Collaboration
